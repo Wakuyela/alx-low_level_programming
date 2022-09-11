@@ -16,7 +16,7 @@ int n;
 
 srand(time(0));
 n = rand () - RAND_MAX / 2;
-*/ your code goes there */
+/* your code goes there */
 
 if (n > 0)
 {
@@ -33,3 +33,4 @@ printf("%d is negative\n", n);
 else
 printf("Invalid number entered\n");
 return (0);
+}
