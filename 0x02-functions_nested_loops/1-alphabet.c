@@ -1,11 +1,11 @@
 #include "main.h"
 /**
-* main - prints alphabet
+* print_alphabet - function prints just that
 *
-* Return: always 0
+* Return:0
 */
 
-void print_void(void)
+void print_alphabet(void)
 {
 char i;
 for (i = 'a'; i <= 'z'; i++)
