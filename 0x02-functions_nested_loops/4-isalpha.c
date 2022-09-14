@@ -2,7 +2,7 @@
 /**
 * _isalpha - function checks for upcase characters
 * @c: is the int being used for arguments for the function
-* Return: Always 0
+* Return: Always (0)
 */
 int _isalpha(int c)
 {
