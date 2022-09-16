@@ -6,7 +6,6 @@
  *
  *Return: returns nothing
  */
-
 void more_numbers(void)
 {
 int n1, n2;
